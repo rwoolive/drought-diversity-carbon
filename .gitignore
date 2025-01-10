@@ -47,3 +47,12 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+
+# sequence data
+code/3d_communityanalysis_16S.RData
+raw-data/sequence/16S/rocky_dada_16S/output
+raw-data/sequence/16S/rocky_dada_16S/raw
+raw-data/sequence/ITS/rocky_dada_ITS/output
+raw-data/sequence/ITS/rocky_dada_ITS/raw
+raw-data/sequence/fastqs
