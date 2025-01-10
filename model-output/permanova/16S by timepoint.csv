@@ -1,0 +1,6 @@
+"","effect","24hr","6mo"
+"1","Moisture.treatment","F=2.177, Df=1, p=0.06, R2=0.014","F=1.83, Df=1, p=0.11, R2=0.01"
+"2","Residue.type","F=19.133, Df=4, p=0.005, R2=0.499","F=25.616, Df=4, p=0.005, R2=0.573"
+"3","Moisture.treatment:Residue.type","F=1.174, Df=4, p=0.26, R2=0.031","F=1.124, Df=4, p=0.34, R2=0.025"
+"4","Residual","F=NA, Df=70, p=NA, R2=0.456","F=NA, Df=70, p=NA, R2=0.392"
+"5","Total","F=NA, Df=79, p=NA, R2=1","F=NA, Df=79, p=NA, R2=1"

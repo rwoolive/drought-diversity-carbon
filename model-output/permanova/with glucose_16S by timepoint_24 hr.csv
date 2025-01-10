@@ -1,0 +1,10 @@
+"","Df","SumOfSqs","R2","F","Pr(>F)"
+"Moisture.treatment",1,0.182,0.014,2.225,0.04
+"Residue.type",4,6.4,0.499,19.556,0.005
+"Glucose.addition.treatment",1,0.189,0.015,2.306,0.1
+"Moisture.treatment:Residue.type",4,0.393,0.031,1.2,0.22
+"Moisture.treatment:Glucose.addition.treatment",1,0.081,0.006,0.99,0.45
+"Residue.type:Glucose.addition.treatment",4,0.368,0.029,1.123,0.285
+"Moisture.treatment:Residue.type:Glucose.addition.treatment",4,0.308,0.024,0.94,0.51
+"Residual",60,4.909,0.383,NA,NA
+"Total",79,12.829,1,NA,NA
