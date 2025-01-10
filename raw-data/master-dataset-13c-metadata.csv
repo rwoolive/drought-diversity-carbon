@@ -1,0 +1,46 @@
+﻿Column name,Description
+Sample number,Mesocosm ID
+Moisture treatment,"Moisture regime: control, drought"
+Residue type,"Type of residue added: CLOV (clover only), NONE (no residue added), SHMX (5-species soil health mix), WHCL (wheat-clover mix), WHEA (wheat only)"
+Lab rep,Lab replication 
+Glucose addition treatment,"Type of glucose added: G-00 ( no glucose), G-50 (50 ug g-1 soil)"
+Harvest day,"Harvest day: T1 (24 hr), T90 (6 mo)"
+frac mass recovery,Percent mass recovered after size fractionation
+frac pct pomsand,Percent mass which is pom/sand
+frac pct maom,Percent mass which is maom
+pom n pct,Percent nitrogen of pom/sand fraction
+pom c pct,Percent carbon of pom/sand fraction
+pom n g kg,g pom/sand-N per kg dry soil
+pom c g kg,g pom/sand-C per kg dry soil
+pom cn,C:N ratio of pom/sand
+maom n pct,Percent nitrogen of maom fraction
+maom c pct,Percent carbon of maom fraction
+maom n g kg,g maom-N per kg dry soil
+maom c g kg,g maom-C per kg dry soil
+maom cn,C:N ratio of maom
+bulk soil N g kg,total g N per kg dry soil
+bulk soil C g kg,total g C per kg dry soil
+bulk soil cn,C:N of bulk soil
+frac pct n as pon,percent of total soil N that is in the pom/sand fraction
+frac pct c as poc,percent of total soil C that is in the pom/sand fraction
+frac pct n as maon,percent of total soil N that is in the maom fraction
+frac pct c as maoc,percent of total soil C that is in the maom fraction
+frac c recovery,percent of C recovered after size fractionation
+frac n recovery,percent of N recovered after size fractionation
+d13C som,delta-13C value of bulk soil
+d13C pom,delta-13C value of pom/sand fraction
+d13C maom,delta-13C value of maom fraction
+13soc,ug 13C per g soil
+13poc,ug 13C per g soil in the pom/sand fraction
+13maoc,ug 13C per g soil in the maom fraction
+doc,ug C per g dry soil as DOC (unfumigated k2so4 extraction and persulfate digestion)
+mbc,ug C per g dry soil as microbial biomass C (chloroform fumigation-k2so4 extraction and persulfate digestion)
+13doc,ug 13C per g soil in the doc fraction
+13mbc,ug 13C per g soil in the mbc fraction
+13co2,ug 13C respired per g soil  
+cue,microbial carbon use efficiency
+GMC,gravimetric moisture content (g per g soil)
+Moisture pct,percent moisture of the soil
+co2,ug C respired as CO2 per g soil
+co2-native,ug native C respired as CO2 per g soil
+dna,ng per uL DNA extracted
