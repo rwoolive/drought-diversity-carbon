@@ -1,0 +1,328 @@
+,file.names,submitted.by,library,well,utia,id,sample.id,plate,row,column,Sample.number,Sample.name,Moisture.treatment,Residue.type,Lab.rep,Glucose.addition.treatment,Harvest.day
+1,Wooliver_16S_1A1_Beever240927_S1,Wooliver,16S,1A1,Beever240927,NA,S1,1,A,1,3,16S_Ambient_Clover_R1_G-00,Ambient,Clover,R1,G-00,T1
+13,Wooliver_16S_1B1_Beever240927_S2,Wooliver,16S,1B1,Beever240927,NA,S2,1,B,1,7,16S_Ambient_Five-species mix_R1_G-00,Ambient,Five-species mix,R1,G-00,T1
+25,Wooliver_16S_1C1_Beever240927_S3,Wooliver,16S,1C1,Beever240927,NA,S3,1,C,1,11,16S_Ambient_No residue_R1_G-00,Ambient,No residue,R1,G-00,T1
+37,Wooliver_16S_1D1_Beever240927_S4,Wooliver,16S,1D1,Beever240927,NA,S4,1,D,1,15,16S_Ambient_Wheat_R1_G-00,Ambient,Wheat,R1,G-00,T1
+49,Wooliver_16S_1E1_Beever240927_S5,Wooliver,16S,1.00E+01,Beever240927,NA,S5,1,E,1,19,16S_Ambient_Wheat-clover mix_R1_G-00,Ambient,Wheat-clover mix,R1,G-00,T1
+61,Wooliver_16S_1F1_Beever240927_S6,Wooliver,16S,1F1,Beever240927,NA,S6,1,F,1,23,16S_Drought_Clover_R1_G-00,Drought,Clover,R1,G-00,T1
+73,Wooliver_16S_1G1_Beever240927_S7,Wooliver,16S,1G1,Beever240927,NA,S7,1,G,1,27,16S_Drought_Five-species mix_R1_G-00,Drought,Five-species mix,R1,G-00,T1
+85,Wooliver_16S_1H1_Beever240927_S8,Wooliver,16S,1H1,Beever240927,NA,S8,1,H,1,31,16S_Drought_No residue_R1_G-00,Drought,No residue,R1,G-00,T1
+5,Wooliver_16S_1A2_Beever240927_S9,Wooliver,16S,1A2,Beever240927,NA,S9,1,A,2,35,16S_Drought_Wheat_R1_G-00,Drought,Wheat,R1,G-00,T1
+17,Wooliver_16S_1B2_Beever240927_S10,Wooliver,16S,1B2,Beever240927,NA,S10,1,B,2,39,16S_Drought_Wheat-clover mix_R1_G-00,Drought,Wheat-clover mix,R1,G-00,T1
+29,Wooliver_16S_1C2_Beever240927_S11,Wooliver,16S,1C2,Beever240927,NA,S11,1,C,2,43,16S_Ambient_Clover_R2_G-00,Ambient,Clover,R2,G-00,T1
+41,Wooliver_16S_1D2_Beever240927_S12,Wooliver,16S,1D2,Beever240927,NA,S12,1,D,2,47,16S_Ambient_Five-species mix_R2_G-00,Ambient,Five-species mix,R2,G-00,T1
+53,Wooliver_16S_1E2_Beever240927_S13,Wooliver,16S,1.00E+02,Beever240927,NA,S13,1,E,2,51,16S_Ambient_No residue_R2_G-00,Ambient,No residue,R2,G-00,T1
+65,Wooliver_16S_1F2_Beever240927_S14,Wooliver,16S,1F2,Beever240927,NA,S14,1,F,2,55,16S_Ambient_Wheat_R2_G-00,Ambient,Wheat,R2,G-00,T1
+77,Wooliver_16S_1G2_Beever240927_S15,Wooliver,16S,1G2,Beever240927,NA,S15,1,G,2,59,16S_Ambient_Wheat-clover mix_R2_G-00,Ambient,Wheat-clover mix,R2,G-00,T1
+89,Wooliver_16S_1H2_Beever240927_S16,Wooliver,16S,1H2,Beever240927,NA,S16,1,H,2,63,16S_Drought_Clover_R2_G-00,Drought,Clover,R2,G-00,T1
+6,Wooliver_16S_1A3_Beever240927_S17,Wooliver,16S,1A3,Beever240927,NA,S17,1,A,3,67,16S_Drought_Five-species mix_R2_G-00,Drought,Five-species mix,R2,G-00,T1
+18,Wooliver_16S_1B3_Beever240927_S18,Wooliver,16S,1B3,Beever240927,NA,S18,1,B,3,71,16S_Drought_No residue_R2_G-00,Drought,No residue,R2,G-00,T1
+30,Wooliver_16S_1C3_Beever240927_S19,Wooliver,16S,1C3,Beever240927,NA,S19,1,C,3,75,16S_Drought_Wheat_R2_G-00,Drought,Wheat,R2,G-00,T1
+42,Wooliver_16S_1D3_Beever240927_S20,Wooliver,16S,1D3,Beever240927,NA,S20,1,D,3,79,16S_Drought_Wheat-clover mix_R2_G-00,Drought,Wheat-clover mix,R2,G-00,T1
+54,Wooliver_16S_1E3_Beever240927_S21,Wooliver,16S,1.00E+03,Beever240927,NA,S21,1,E,3,83,16S_Ambient_Clover_R3_G-00,Ambient,Clover,R3,G-00,T1
+66,Wooliver_16S_1F3_Beever240927_S22,Wooliver,16S,1F3,Beever240927,NA,S22,1,F,3,87,16S_Ambient_Five-species mix_R3_G-00,Ambient,Five-species mix,R3,G-00,T1
+78,Wooliver_16S_1G3_Beever240927_S23,Wooliver,16S,1G3,Beever240927,NA,S23,1,G,3,91,16S_Ambient_No residue_R3_G-00,Ambient,No residue,R3,G-00,T1
+90,Wooliver_16S_1H3_Beever240927_S24,Wooliver,16S,1H3,Beever240927,NA,S24,1,H,3,95,16S_Ambient_Wheat_R3_G-00,Ambient,Wheat,R3,G-00,T1
+7,Wooliver_16S_1A4_Beever240927_S25,Wooliver,16S,1A4,Beever240927,NA,S25,1,A,4,99,16S_Ambient_Wheat-clover mix_R3_G-00,Ambient,Wheat-clover mix,R3,G-00,T1
+19,Wooliver_16S_1B4_Beever240927_S26,Wooliver,16S,1B4,Beever240927,NA,S26,1,B,4,103,16S_Drought_Clover_R3_G-00,Drought,Clover,R3,G-00,T1
+31,Wooliver_16S_1C4_Beever240927_S27,Wooliver,16S,1C4,Beever240927,NA,S27,1,C,4,107,16S_Drought_Five-species mix_R3_G-00,Drought,Five-species mix,R3,G-00,T1
+43,Wooliver_16S_1D4_Beever240927_S28,Wooliver,16S,1D4,Beever240927,NA,S28,1,D,4,111,16S_Drought_No residue_R3_G-00,Drought,No residue,R3,G-00,T1
+55,Wooliver_16S_1E4_Beever240927_S29,Wooliver,16S,1.00E+04,Beever240927,NA,S29,1,E,4,115,16S_Drought_Wheat_R3_G-00,Drought,Wheat,R3,G-00,T1
+67,Wooliver_16S_1F4_Beever240927_S30,Wooliver,16S,1F4,Beever240927,NA,S30,1,F,4,119,16S_Drought_Wheat-clover mix_R3_G-00,Drought,Wheat-clover mix,R3,G-00,T1
+79,Wooliver_16S_1G4_Beever240927_S31,Wooliver,16S,1G4,Beever240927,NA,S31,1,G,4,123,16S_Ambient_Clover_R4_G-00,Ambient,Clover,R4,G-00,T1
+91,Wooliver_16S_1H4_Beever240927_S32,Wooliver,16S,1H4,Beever240927,NA,S32,1,H,4,127,16S_Ambient_Five-species mix_R4_G-00,Ambient,Five-species mix,R4,G-00,T1
+8,Wooliver_16S_1A5_Beever240927_S33,Wooliver,16S,1A5,Beever240927,NA,S33,1,A,5,131,16S_Ambient_No residue_R4_G-00,Ambient,No residue,R4,G-00,T1
+20,Wooliver_16S_1B5_Beever240927_S34,Wooliver,16S,1B5,Beever240927,NA,S34,1,B,5,135,16S_Ambient_Wheat_R4_G-00,Ambient,Wheat,R4,G-00,T1
+32,Wooliver_16S_1C5_Beever240927_S35,Wooliver,16S,1C5,Beever240927,NA,S35,1,C,5,139,16S_Ambient_Wheat-clover mix_R4_G-00,Ambient,Wheat-clover mix,R4,G-00,T1
+44,Wooliver_16S_1D5_Beever240927_S36,Wooliver,16S,1D5,Beever240927,NA,S36,1,D,5,143,16S_Drought_Clover_R4_G-00,Drought,Clover,R4,G-00,T1
+56,Wooliver_16S_1E5_Beever240927_S37,Wooliver,16S,1.00E+05,Beever240927,NA,S37,1,E,5,147,16S_Drought_Five-species mix_R4_G-00,Drought,Five-species mix,R4,G-00,T1
+68,Wooliver_16S_1F5_Beever240927_S38,Wooliver,16S,1F5,Beever240927,NA,S38,1,F,5,151,16S_Drought_No residue_R4_G-00,Drought,No residue,R4,G-00,T1
+80,Wooliver_16S_1G5_Beever240927_S39,Wooliver,16S,1G5,Beever240927,NA,S39,1,G,5,155,16S_Drought_Wheat_R4_G-00,Drought,Wheat,R4,G-00,T1
+92,Wooliver_16S_1H5_Beever240927_S40,Wooliver,16S,1H5,Beever240927,NA,S40,1,H,5,159,16S_Drought_Wheat-clover mix_R4_G-00,Drought,Wheat-clover mix,R4,G-00,T1
+9,Wooliver_16S_1A6_Beever240927_S41,Wooliver,16S,1A6,Beever240927,NA,S41,1,A,6,4,16S_Ambient_Clover_R1_G-00,Ambient,Clover,R1,G-00,T90
+21,Wooliver_16S_1B6_Beever240927_S42,Wooliver,16S,1B6,Beever240927,NA,S42,1,B,6,8,16S_Ambient_Five-species mix_R1_G-00,Ambient,Five-species mix,R1,G-00,T90
+33,Wooliver_16S_1C6_Beever240927_S43,Wooliver,16S,1C6,Beever240927,NA,S43,1,C,6,12,16S_Ambient_No residue_R1_G-00,Ambient,No residue,R1,G-00,T90
+45,Wooliver_16S_1D6_Beever240927_S44,Wooliver,16S,1D6,Beever240927,NA,S44,1,D,6,16,16S_Ambient_Wheat_R1_G-00,Ambient,Wheat,R1,G-00,T90
+57,Wooliver_16S_1E6_Beever240927_S45,Wooliver,16S,1.00E+06,Beever240927,NA,S45,1,E,6,20,16S_Ambient_Wheat-clover mix_R1_G-00,Ambient,Wheat-clover mix,R1,G-00,T90
+69,Wooliver_16S_1F6_Beever240927_S46,Wooliver,16S,1F6,Beever240927,NA,S46,1,F,6,24,16S_Drought_Clover_R1_G-00,Drought,Clover,R1,G-00,T90
+81,Wooliver_16S_1G6_Beever240927_S47,Wooliver,16S,1G6,Beever240927,NA,S47,1,G,6,28,16S_Drought_Five-species mix_R1_G-00,Drought,Five-species mix,R1,G-00,T90
+93,Wooliver_16S_1H6_Beever240927_S48,Wooliver,16S,1H6,Beever240927,NA,S48,1,H,6,32,16S_Drought_No residue_R1_G-00,Drought,No residue,R1,G-00,T90
+10,Wooliver_16S_1A7_Beever240927_S49,Wooliver,16S,1A7,Beever240927,NA,S49,1,A,7,36,16S_Drought_Wheat_R1_G-00,Drought,Wheat,R1,G-00,T90
+22,Wooliver_16S_1B7_Beever240927_S50,Wooliver,16S,1B7,Beever240927,NA,S50,1,B,7,40,16S_Drought_Wheat-clover mix_R1_G-00,Drought,Wheat-clover mix,R1,G-00,T90
+34,Wooliver_16S_1C7_Beever240927_S51,Wooliver,16S,1C7,Beever240927,NA,S51,1,C,7,44,16S_Ambient_Clover_R2_G-00,Ambient,Clover,R2,G-00,T90
+46,Wooliver_16S_1D7_Beever240927_S52,Wooliver,16S,1D7,Beever240927,NA,S52,1,D,7,48,16S_Ambient_Five-species mix_R2_G-00,Ambient,Five-species mix,R2,G-00,T90
+58,Wooliver_16S_1E7_Beever240927_S53,Wooliver,16S,1.00E+07,Beever240927,NA,S53,1,E,7,52,16S_Ambient_No residue_R2_G-00,Ambient,No residue,R2,G-00,T90
+70,Wooliver_16S_1F7_Beever240927_S54,Wooliver,16S,1F7,Beever240927,NA,S54,1,F,7,56,16S_Ambient_Wheat_R2_G-00,Ambient,Wheat,R2,G-00,T90
+82,Wooliver_16S_1G7_Beever240927_S55,Wooliver,16S,1G7,Beever240927,NA,S55,1,G,7,60,16S_Ambient_Wheat-clover mix_R2_G-00,Ambient,Wheat-clover mix,R2,G-00,T90
+94,Wooliver_16S_1H7_Beever240927_S56,Wooliver,16S,1H7,Beever240927,NA,S56,1,H,7,64,16S_Drought_Clover_R2_G-00,Drought,Clover,R2,G-00,T90
+11,Wooliver_16S_1A8_Beever240927_S57,Wooliver,16S,1A8,Beever240927,NA,S57,1,A,8,68,16S_Drought_Five-species mix_R2_G-00,Drought,Five-species mix,R2,G-00,T90
+23,Wooliver_16S_1B8_Beever240927_S58,Wooliver,16S,1B8,Beever240927,NA,S58,1,B,8,72,16S_Drought_No residue_R2_G-00,Drought,No residue,R2,G-00,T90
+35,Wooliver_16S_1C8_Beever240927_S59,Wooliver,16S,1C8,Beever240927,NA,S59,1,C,8,76,16S_Drought_Wheat_R2_G-00,Drought,Wheat,R2,G-00,T90
+47,Wooliver_16S_1D8_Beever240927_S60,Wooliver,16S,1D8,Beever240927,NA,S60,1,D,8,80,16S_Drought_Wheat-clover mix_R2_G-00,Drought,Wheat-clover mix,R2,G-00,T90
+59,Wooliver_16S_1E8_Beever240927_S61,Wooliver,16S,1.00E+08,Beever240927,NA,S61,1,E,8,84,16S_Ambient_Clover_R3_G-00,Ambient,Clover,R3,G-00,T90
+71,Wooliver_16S_1F8_Beever240927_S62,Wooliver,16S,1F8,Beever240927,NA,S62,1,F,8,88,16S_Ambient_Five-species mix_R3_G-00,Ambient,Five-species mix,R3,G-00,T90
+83,Wooliver_16S_1G8_Beever240927_S63,Wooliver,16S,1G8,Beever240927,NA,S63,1,G,8,92,16S_Ambient_No residue_R3_G-00,Ambient,No residue,R3,G-00,T90
+95,Wooliver_16S_1H8_Beever240927_S64,Wooliver,16S,1H8,Beever240927,NA,S64,1,H,8,96,16S_Ambient_Wheat_R3_G-00,Ambient,Wheat,R3,G-00,T90
+12,Wooliver_16S_1A9_Beever240927_S65,Wooliver,16S,1A9,Beever240927,NA,S65,1,A,9,100,16S_Ambient_Wheat-clover mix_R3_G-00,Ambient,Wheat-clover mix,R3,G-00,T90
+24,Wooliver_16S_1B9_Beever240927_S66,Wooliver,16S,1B9,Beever240927,NA,S66,1,B,9,104,16S_Drought_Clover_R3_G-00,Drought,Clover,R3,G-00,T90
+36,Wooliver_16S_1C9_Beever240927_S67,Wooliver,16S,1C9,Beever240927,NA,S67,1,C,9,108,16S_Drought_Five-species mix_R3_G-00,Drought,Five-species mix,R3,G-00,T90
+48,Wooliver_16S_1D9_Beever240927_S68,Wooliver,16S,1D9,Beever240927,NA,S68,1,D,9,112,16S_Drought_No residue_R3_G-00,Drought,No residue,R3,G-00,T90
+60,Wooliver_16S_1E9_Beever240927_S69,Wooliver,16S,1.00E+09,Beever240927,NA,S69,1,E,9,116,16S_Drought_Wheat_R3_G-00,Drought,Wheat,R3,G-00,T90
+72,Wooliver_16S_1F9_Beever240927_S70,Wooliver,16S,1F9,Beever240927,NA,S70,1,F,9,120,16S_Drought_Wheat-clover mix_R3_G-00,Drought,Wheat-clover mix,R3,G-00,T90
+84,Wooliver_16S_1G9_Beever240927_S71,Wooliver,16S,1G9,Beever240927,NA,S71,1,G,9,124,16S_Ambient_Clover_R4_G-00,Ambient,Clover,R4,G-00,T90
+96,Wooliver_16S_1H9_Beever240927_S72,Wooliver,16S,1H9,Beever240927,NA,S72,1,H,9,128,16S_Ambient_Five-species mix_R4_G-00,Ambient,Five-species mix,R4,G-00,T90
+2,Wooliver_16S_1A10_Beever240927_S73,Wooliver,16S,1A10,Beever240927,NA,S73,1,A,10,132,16S_Ambient_No residue_R4_G-00,Ambient,No residue,R4,G-00,T90
+14,Wooliver_16S_1B10_Beever240927_S74,Wooliver,16S,1B10,Beever240927,NA,S74,1,B,10,136,16S_Ambient_Wheat_R4_G-00,Ambient,Wheat,R4,G-00,T90
+26,Wooliver_16S_1C10_Beever240927_S75,Wooliver,16S,1C10,Beever240927,NA,S75,1,C,10,140,16S_Ambient_Wheat-clover mix_R4_G-00,Ambient,Wheat-clover mix,R4,G-00,T90
+38,Wooliver_16S_1D10_Beever240927_S76,Wooliver,16S,1D10,Beever240927,NA,S76,1,D,10,144,16S_Drought_Clover_R4_G-00,Drought,Clover,R4,G-00,T90
+50,Wooliver_16S_1E10_Beever240927_S77,Wooliver,16S,1.00E+10,Beever240927,NA,S77,1,E,10,148,16S_Drought_Five-species mix_R4_G-00,Drought,Five-species mix,R4,G-00,T90
+62,Wooliver_16S_1F10_Beever240927_S78,Wooliver,16S,1F10,Beever240927,NA,S78,1,F,10,152,16S_Drought_No residue_R4_G-00,Drought,No residue,R4,G-00,T90
+74,Wooliver_16S_1G10_Beever240927_S79,Wooliver,16S,1G10,Beever240927,NA,S79,1,G,10,156,16S_Drought_Wheat_R4_G-00,Drought,Wheat,R4,G-00,T90
+86,Wooliver_16S_1H10_Beever240927_S80,Wooliver,16S,1H10,Beever240927,NA,S80,1,H,10,160,16S_Drought_Wheat-clover mix_R4_G-00,Drought,Wheat-clover mix,R4,G-00,T90
+3,Wooliver_16S_1A11_Beever240927_S81,Wooliver,16S,1A11,Beever240927,NA,S81,1,A,11,1,16S_Ambient_Clover_R1_G-50,Ambient,Clover,R1,G-50,T1
+15,Wooliver_16S_1B11_Beever240927_S82,Wooliver,16S,1B11,Beever240927,NA,S82,1,B,11,5,16S_Ambient_Five-species mix_R1_G-50,Ambient,Five-species mix,R1,G-50,T1
+27,Wooliver_16S_1C11_Beever240927_S83,Wooliver,16S,1C11,Beever240927,NA,S83,1,C,11,9,16S_Ambient_No residue_R1_G-50,Ambient,No residue,R1,G-50,T1
+39,Wooliver_16S_1D11_Beever240927_S84,Wooliver,16S,1D11,Beever240927,NA,S84,1,D,11,13,16S_Ambient_Wheat_R1_G-50,Ambient,Wheat,R1,G-50,T1
+51,Wooliver_16S_1E11_Beever240927_S85,Wooliver,16S,1.00E+11,Beever240927,NA,S85,1,E,11,17,16S_Ambient_Wheat-clover mix_R1_G-50,Ambient,Wheat-clover mix,R1,G-50,T1
+63,Wooliver_16S_1F11_Beever240927_S86,Wooliver,16S,1F11,Beever240927,NA,S86,1,F,11,21,16S_Drought_Clover_R1_G-50,Drought,Clover,R1,G-50,T1
+75,Wooliver_16S_1G11_Beever240927_S87,Wooliver,16S,1G11,Beever240927,NA,S87,1,G,11,25,16S_Drought_Five-species mix_R1_G-50,Drought,Five-species mix,R1,G-50,T1
+87,Wooliver_16S_1H11_Beever240927_S88,Wooliver,16S,1H11,Beever240927,NA,S88,1,H,11,29,16S_Drought_No residue_R1_G-50,Drought,No residue,R1,G-50,T1
+4,Wooliver_16S_1A12_Beever240927_S89,Wooliver,16S,1A12,Beever240927,NA,S89,1,A,12,33,16S_Drought_Wheat_R1_G-50,Drought,Wheat,R1,G-50,T1
+16,Wooliver_16S_1B12_Beever240927_S90,Wooliver,16S,1B12,Beever240927,NA,S90,1,B,12,37,16S_Drought_Wheat-clover mix_R1_G-50,Drought,Wheat-clover mix,R1,G-50,T1
+28,Wooliver_16S_1C12_Beever240927_S91,Wooliver,16S,1C12,Beever240927,NA,S91,1,C,12,41,16S_Ambient_Clover_R2_G-50,Ambient,Clover,R2,G-50,T1
+40,Wooliver_16S_1D12_Beever240927_S92,Wooliver,16S,1D12,Beever240927,NA,S92,1,D,12,45,16S_Ambient_Five-species mix_R2_G-50,Ambient,Five-species mix,R2,G-50,T1
+52,Wooliver_16S_1E12_Beever240927_S93,Wooliver,16S,1.00E+12,Beever240927,NA,S93,1,E,12,49,16S_Ambient_No residue_R2_G-50,Ambient,No residue,R2,G-50,T1
+64,Wooliver_16S_1F12_Beever240927_S94,Wooliver,16S,1F12,Beever240927,NA,S94,1,F,12,53,16S_Ambient_Wheat_R2_G-50,Ambient,Wheat,R2,G-50,T1
+76,Wooliver_16S_1G12_Beever240927_S95,Wooliver,16S,1G12,Beever240927,NA,S95,1,G,12,57,16S_Ambient_Wheat-clover mix_R2_G-50,Ambient,Wheat-clover mix,R2,G-50,T1
+88,Wooliver_16S_1H12_Beever240927_S96,Wooliver,16S,1H12,Beever240927,NA,S96,1,H,12,61,16S_Drought_Clover_R2_G-50,Drought,Clover,R2,G-50,T1
+97,Wooliver_16S_2A1_Beever240927_S97,Wooliver,16S,2A1,Beever240927,NA,S97,2,A,1,65,16S_Drought_Five-species mix_R2_G-50,Drought,Five-species mix,R2,G-50,T1
+106,Wooliver_16S_2B1_Beever240927_S98,Wooliver,16S,2B1,Beever240927,NA,S98,2,B,1,69,16S_Drought_No residue_R2_G-50,Drought,No residue,R2,G-50,T1
+115,Wooliver_16S_2C1_Beever240927_S99,Wooliver,16S,2C1,Beever240927,NA,S99,2,C,1,73,16S_Drought_Wheat_R2_G-50,Drought,Wheat,R2,G-50,T1
+124,Wooliver_16S_2D1_Beever240927_S100,Wooliver,16S,2D1,Beever240927,NA,S100,2,D,1,77,16S_Drought_Wheat-clover mix_R2_G-50,Drought,Wheat-clover mix,R2,G-50,T1
+133,Wooliver_16S_2E1_Beever240927_S101,Wooliver,16S,2.00E+01,Beever240927,NA,S101,2,E,1,81,16S_Ambient_Clover_R3_G-50,Ambient,Clover,R3,G-50,T1
+141,Wooliver_16S_2F1_Beever240927_S102,Wooliver,16S,2F1,Beever240927,NA,S102,2,F,1,85,16S_Ambient_Five-species mix_R3_G-50,Ambient,Five-species mix,R3,G-50,T1
+149,Wooliver_16S_2G1_Beever240927_S103,Wooliver,16S,2G1,Beever240927,NA,S103,2,G,1,89,16S_Ambient_No residue_R3_G-50,Ambient,No residue,R3,G-50,T1
+157,Wooliver_16S_2H1_Beever240927_S104,Wooliver,16S,2H1,Beever240927,NA,S104,2,H,1,93,16S_Ambient_Wheat_R3_G-50,Ambient,Wheat,R3,G-50,T1
+98,Wooliver_16S_2A2_Beever240927_S105,Wooliver,16S,2A2,Beever240927,NA,S105,2,A,2,97,16S_Ambient_Wheat-clover mix_R3_G-50,Ambient,Wheat-clover mix,R3,G-50,T1
+107,Wooliver_16S_2B2_Beever240927_S106,Wooliver,16S,2B2,Beever240927,NA,S106,2,B,2,101,16S_Drought_Clover_R3_G-50,Drought,Clover,R3,G-50,T1
+116,Wooliver_16S_2C2_Beever240927_S107,Wooliver,16S,2C2,Beever240927,NA,S107,2,C,2,105,16S_Drought_Five-species mix_R3_G-50,Drought,Five-species mix,R3,G-50,T1
+125,Wooliver_16S_2D2_Beever240927_S108,Wooliver,16S,2D2,Beever240927,NA,S108,2,D,2,109,16S_Drought_No residue_R3_G-50,Drought,No residue,R3,G-50,T1
+134,Wooliver_16S_2E2_Beever240927_S109,Wooliver,16S,2.00E+02,Beever240927,NA,S109,2,E,2,113,16S_Drought_Wheat_R3_G-50,Drought,Wheat,R3,G-50,T1
+142,Wooliver_16S_2F2_Beever240927_S110,Wooliver,16S,2F2,Beever240927,NA,S110,2,F,2,117,16S_Drought_Wheat-clover mix_R3_G-50,Drought,Wheat-clover mix,R3,G-50,T1
+150,Wooliver_16S_2G2_Beever240927_S111,Wooliver,16S,2G2,Beever240927,NA,S111,2,G,2,121,16S_Ambient_Clover_R4_G-50,Ambient,Clover,R4,G-50,T1
+158,Wooliver_16S_2H2_Beever240927_S112,Wooliver,16S,2H2,Beever240927,NA,S112,2,H,2,125,16S_Ambient_Five-species mix_R4_G-50,Ambient,Five-species mix,R4,G-50,T1
+99,Wooliver_16S_2A3_Beever240927_S113,Wooliver,16S,2A3,Beever240927,NA,S113,2,A,3,129,16S_Ambient_No residue_R4_G-50,Ambient,No residue,R4,G-50,T1
+108,Wooliver_16S_2B3_Beever240927_S114,Wooliver,16S,2B3,Beever240927,NA,S114,2,B,3,133,16S_Ambient_Wheat_R4_G-50,Ambient,Wheat,R4,G-50,T1
+117,Wooliver_16S_2C3_Beever240927_S115,Wooliver,16S,2C3,Beever240927,NA,S115,2,C,3,137,16S_Ambient_Wheat-clover mix_R4_G-50,Ambient,Wheat-clover mix,R4,G-50,T1
+126,Wooliver_16S_2D3_Beever240927_S116,Wooliver,16S,2D3,Beever240927,NA,S116,2,D,3,141,16S_Drought_Clover_R4_G-50,Drought,Clover,R4,G-50,T1
+135,Wooliver_16S_2E3_Beever240927_S117,Wooliver,16S,2.00E+03,Beever240927,NA,S117,2,E,3,145,16S_Drought_Five-species mix_R4_G-50,Drought,Five-species mix,R4,G-50,T1
+143,Wooliver_16S_2F3_Beever240927_S118,Wooliver,16S,2F3,Beever240927,NA,S118,2,F,3,149,16S_Drought_No residue_R4_G-50,Drought,No residue,R4,G-50,T1
+151,Wooliver_16S_2G3_Beever240927_S119,Wooliver,16S,2G3,Beever240927,NA,S119,2,G,3,153,16S_Drought_Wheat_R4_G-50,Drought,Wheat,R4,G-50,T1
+159,Wooliver_16S_2H3_Beever240927_S120,Wooliver,16S,2H3,Beever240927,NA,S120,2,H,3,157,16S_Drought_Wheat-clover mix_R4_G-50,Drought,Wheat-clover mix,R4,G-50,T1
+100,Wooliver_16S_2A4_Beever240927_S121,Wooliver,16S,2A4,Beever240927,NA,S121,2,A,4,2,16S_Ambient_Clover_R1_G-50,Ambient,Clover,R1,G-50,T90
+109,Wooliver_16S_2B4_Beever240927_S122,Wooliver,16S,2B4,Beever240927,NA,S122,2,B,4,6,16S_Ambient_Five-species mix_R1_G-50,Ambient,Five-species mix,R1,G-50,T90
+118,Wooliver_16S_2C4_Beever240927_S123,Wooliver,16S,2C4,Beever240927,NA,S123,2,C,4,10,16S_Ambient_No residue_R1_G-50,Ambient,No residue,R1,G-50,T90
+127,Wooliver_16S_2D4_Beever240927_S124,Wooliver,16S,2D4,Beever240927,NA,S124,2,D,4,14,16S_Ambient_Wheat_R1_G-50,Ambient,Wheat,R1,G-50,T90
+136,Wooliver_16S_2E4_Beever240927_S125,Wooliver,16S,2.00E+04,Beever240927,NA,S125,2,E,4,18,16S_Ambient_Wheat-clover mix_R1_G-50,Ambient,Wheat-clover mix,R1,G-50,T90
+144,Wooliver_16S_2F4_Beever240927_S126,Wooliver,16S,2F4,Beever240927,NA,S126,2,F,4,22,16S_Drought_Clover_R1_G-50,Drought,Clover,R1,G-50,T90
+152,Wooliver_16S_2G4_Beever240927_S127,Wooliver,16S,2G4,Beever240927,NA,S127,2,G,4,26,16S_Drought_Five-species mix_R1_G-50,Drought,Five-species mix,R1,G-50,T90
+160,Wooliver_16S_2H4_Beever240927_S128,Wooliver,16S,2H4,Beever240927,NA,S128,2,H,4,30,16S_Drought_No residue_R1_G-50,Drought,No residue,R1,G-50,T90
+101,Wooliver_16S_2A5_Beever240927_S129,Wooliver,16S,2A5,Beever240927,NA,S129,2,A,5,34,16S_Drought_Wheat_R1_G-50,Drought,Wheat,R1,G-50,T90
+110,Wooliver_16S_2B5_Beever240927_S130,Wooliver,16S,2B5,Beever240927,NA,S130,2,B,5,38,16S_Drought_Wheat-clover mix_R1_G-50,Drought,Wheat-clover mix,R1,G-50,T90
+119,Wooliver_16S_2C5_Beever240927_S131,Wooliver,16S,2C5,Beever240927,NA,S131,2,C,5,42,16S_Ambient_Clover_R2_G-50,Ambient,Clover,R2,G-50,T90
+128,Wooliver_16S_2D5_Beever240927_S132,Wooliver,16S,2D5,Beever240927,NA,S132,2,D,5,46,16S_Ambient_Five-species mix_R2_G-50,Ambient,Five-species mix,R2,G-50,T90
+137,Wooliver_16S_2E5_Beever240927_S133,Wooliver,16S,2.00E+05,Beever240927,NA,S133,2,E,5,50,16S_Ambient_No residue_R2_G-50,Ambient,No residue,R2,G-50,T90
+145,Wooliver_16S_2F5_Beever240927_S134,Wooliver,16S,2F5,Beever240927,NA,S134,2,F,5,54,16S_Ambient_Wheat_R2_G-50,Ambient,Wheat,R2,G-50,T90
+153,Wooliver_16S_2G5_Beever240927_S135,Wooliver,16S,2G5,Beever240927,NA,S135,2,G,5,58,16S_Ambient_Wheat-clover mix_R2_G-50,Ambient,Wheat-clover mix,R2,G-50,T90
+161,Wooliver_16S_2H5_Beever240927_S136,Wooliver,16S,2H5,Beever240927,NA,S136,2,H,5,62,16S_Drought_Clover_R2_G-50,Drought,Clover,R2,G-50,T90
+102,Wooliver_16S_2A6_Beever240927_S137,Wooliver,16S,2A6,Beever240927,NA,S137,2,A,6,66,16S_Drought_Five-species mix_R2_G-50,Drought,Five-species mix,R2,G-50,T90
+111,Wooliver_16S_2B6_Beever240927_S138,Wooliver,16S,2B6,Beever240927,NA,S138,2,B,6,70,16S_Drought_No residue_R2_G-50,Drought,No residue,R2,G-50,T90
+120,Wooliver_16S_2C6_Beever240927_S139,Wooliver,16S,2C6,Beever240927,NA,S139,2,C,6,74,16S_Drought_Wheat_R2_G-50,Drought,Wheat,R2,G-50,T90
+129,Wooliver_16S_2D6_Beever240927_S140,Wooliver,16S,2D6,Beever240927,NA,S140,2,D,6,78,16S_Drought_Wheat-clover mix_R2_G-50,Drought,Wheat-clover mix,R2,G-50,T90
+138,Wooliver_16S_2E6_Beever240927_S141,Wooliver,16S,2.00E+06,Beever240927,NA,S141,2,E,6,82,16S_Ambient_Clover_R3_G-50,Ambient,Clover,R3,G-50,T90
+146,Wooliver_16S_2F6_Beever240927_S142,Wooliver,16S,2F6,Beever240927,NA,S142,2,F,6,86,16S_Ambient_Five-species mix_R3_G-50,Ambient,Five-species mix,R3,G-50,T90
+154,Wooliver_16S_2G6_Beever240927_S143,Wooliver,16S,2G6,Beever240927,NA,S143,2,G,6,90,16S_Ambient_No residue_R3_G-50,Ambient,No residue,R3,G-50,T90
+162,Wooliver_16S_2H6_Beever240927_S144,Wooliver,16S,2H6,Beever240927,NA,S144,2,H,6,94,16S_Ambient_Wheat_R3_G-50,Ambient,Wheat,R3,G-50,T90
+103,Wooliver_16S_2A7_Beever240927_S145,Wooliver,16S,2A7,Beever240927,NA,S145,2,A,7,98,16S_Ambient_Wheat-clover mix_R3_G-50,Ambient,Wheat-clover mix,R3,G-50,T90
+112,Wooliver_16S_2B7_Beever240927_S146,Wooliver,16S,2B7,Beever240927,NA,S146,2,B,7,102,16S_Drought_Clover_R3_G-50,Drought,Clover,R3,G-50,T90
+121,Wooliver_16S_2C7_Beever240927_S147,Wooliver,16S,2C7,Beever240927,NA,S147,2,C,7,106,16S_Drought_Five-species mix_R3_G-50,Drought,Five-species mix,R3,G-50,T90
+130,Wooliver_16S_2D7_Beever240927_S148,Wooliver,16S,2D7,Beever240927,NA,S148,2,D,7,110,16S_Drought_No residue_R3_G-50,Drought,No residue,R3,G-50,T90
+139,Wooliver_16S_2E7_Beever240927_S149,Wooliver,16S,2.00E+07,Beever240927,NA,S149,2,E,7,114,16S_Drought_Wheat_R3_G-50,Drought,Wheat,R3,G-50,T90
+147,Wooliver_16S_2F7_Beever240927_S150,Wooliver,16S,2F7,Beever240927,NA,S150,2,F,7,118,16S_Drought_Wheat-clover mix_R3_G-50,Drought,Wheat-clover mix,R3,G-50,T90
+155,Wooliver_16S_2G7_Beever240927_S151,Wooliver,16S,2G7,Beever240927,NA,S151,2,G,7,122,16S_Ambient_Clover_R4_G-50,Ambient,Clover,R4,G-50,T90
+163,Wooliver_16S_2H7_Beever240927_S152,Wooliver,16S,2H7,Beever240927,NA,S152,2,H,7,126,16S_Ambient_Five-species mix_R4_G-50,Ambient,Five-species mix,R4,G-50,T90
+104,Wooliver_16S_2A8_Beever240927_S153,Wooliver,16S,2A8,Beever240927,NA,S153,2,A,8,130,16S_Ambient_No residue_R4_G-50,Ambient,No residue,R4,G-50,T90
+113,Wooliver_16S_2B8_Beever240927_S154,Wooliver,16S,2B8,Beever240927,NA,S154,2,B,8,134,16S_Ambient_Wheat_R4_G-50,Ambient,Wheat,R4,G-50,T90
+122,Wooliver_16S_2C8_Beever240927_S155,Wooliver,16S,2C8,Beever240927,NA,S155,2,C,8,138,16S_Ambient_Wheat-clover mix_R4_G-50,Ambient,Wheat-clover mix,R4,G-50,T90
+131,Wooliver_16S_2D8_Beever240927_S156,Wooliver,16S,2D8,Beever240927,NA,S156,2,D,8,142,16S_Drought_Clover_R4_G-50,Drought,Clover,R4,G-50,T90
+140,Wooliver_16S_2E8_Beever240927_S157,Wooliver,16S,2.00E+08,Beever240927,NA,S157,2,E,8,146,16S_Drought_Five-species mix_R4_G-50,Drought,Five-species mix,R4,G-50,T90
+148,Wooliver_16S_2F8_Beever240927_S158,Wooliver,16S,2F8,Beever240927,NA,S158,2,F,8,150,16S_Drought_No residue_R4_G-50,Drought,No residue,R4,G-50,T90
+156,Wooliver_16S_2G8_Beever240927_S159,Wooliver,16S,2G8,Beever240927,NA,S159,2,G,8,154,16S_Drought_Wheat_R4_G-50,Drought,Wheat,R4,G-50,T90
+164,Wooliver_16S_2H8_Beever240927_S160,Wooliver,16S,2H8,Beever240927,NA,S160,2,H,8,158,16S_Drought_Wheat-clover mix_R4_G-50,Drought,Wheat-clover mix,R4,G-50,T90
+105,Wooliver_16S_2A9_Beever240927_S161,Wooliver,16S,2A9,Beever240927,NA,S161,2,A,9,baseline1,16S_baseline1,NA,NA,NA,NA,NA
+114,Wooliver_16S_2B9_Beever240927_S162,Wooliver,16S,2B9,Beever240927,NA,S162,2,B,9,baseline2,16S_baseline2,NA,NA,NA,NA,NA
+123,Wooliver_16S_2C9_Beever240927_S163,Wooliver,16S,2C9,Beever240927,NA,S163,2,C,9,baseline3,16S_baseline3,NA,NA,NA,NA,NA
+132,Wooliver_16S_2D9_Beever240927_S164,Wooliver,16S,2D9,Beever240927,NA,S164,2,D,9,baseline4,16S_baseline4,NA,NA,NA,NA,NA
+165,Wooliver_ITS_1A1_Beever240927_S165,Wooliver,ITS,1A1,Beever240927,NA,S165,1,A,1,3,ITS_Ambient_Clover_R1_G-00,Ambient,Clover,R1,G-00,T1
+177,Wooliver_ITS_1B1_Beever240927_S166,Wooliver,ITS,1B1,Beever240927,NA,S166,1,B,1,7,ITS_Ambient_Five-species mix_R1_G-00,Ambient,Five-species mix,R1,G-00,T1
+189,Wooliver_ITS_1C1_Beever240927_S167,Wooliver,ITS,1C1,Beever240927,NA,S167,1,C,1,11,ITS_Ambient_No residue_R1_G-00,Ambient,No residue,R1,G-00,T1
+201,Wooliver_ITS_1D1_Beever240927_S168,Wooliver,ITS,1D1,Beever240927,NA,S168,1,D,1,15,ITS_Ambient_Wheat_R1_G-00,Ambient,Wheat,R1,G-00,T1
+213,Wooliver_ITS_1E1_Beever240927_S169,Wooliver,ITS,1.00E+01,Beever240927,NA,S169,1,E,1,19,ITS_Ambient_Wheat-clover mix_R1_G-00,Ambient,Wheat-clover mix,R1,G-00,T1
+225,Wooliver_ITS_1F1_Beever240927_S170,Wooliver,ITS,1F1,Beever240927,NA,S170,1,F,1,23,ITS_Drought_Clover_R1_G-00,Drought,Clover,R1,G-00,T1
+237,Wooliver_ITS_1G1_Beever240927_S171,Wooliver,ITS,1G1,Beever240927,NA,S171,1,G,1,27,ITS_Drought_Five-species mix_R1_G-00,Drought,Five-species mix,R1,G-00,T1
+249,Wooliver_ITS_1H1_Beever240927_S172,Wooliver,ITS,1H1,Beever240927,NA,S172,1,H,1,31,ITS_Drought_No residue_R1_G-00,Drought,No residue,R1,G-00,T1
+169,Wooliver_ITS_1A2_Beever240927_S173,Wooliver,ITS,1A2,Beever240927,NA,S173,1,A,2,35,ITS_Drought_Wheat_R1_G-00,Drought,Wheat,R1,G-00,T1
+181,Wooliver_ITS_1B2_Beever240927_S174,Wooliver,ITS,1B2,Beever240927,NA,S174,1,B,2,39,ITS_Drought_Wheat-clover mix_R1_G-00,Drought,Wheat-clover mix,R1,G-00,T1
+193,Wooliver_ITS_1C2_Beever240927_S175,Wooliver,ITS,1C2,Beever240927,NA,S175,1,C,2,43,ITS_Ambient_Clover_R2_G-00,Ambient,Clover,R2,G-00,T1
+205,Wooliver_ITS_1D2_Beever240927_S176,Wooliver,ITS,1D2,Beever240927,NA,S176,1,D,2,47,ITS_Ambient_Five-species mix_R2_G-00,Ambient,Five-species mix,R2,G-00,T1
+217,Wooliver_ITS_1E2_Beever240927_S177,Wooliver,ITS,1.00E+02,Beever240927,NA,S177,1,E,2,51,ITS_Ambient_No residue_R2_G-00,Ambient,No residue,R2,G-00,T1
+229,Wooliver_ITS_1F2_Beever240927_S178,Wooliver,ITS,1F2,Beever240927,NA,S178,1,F,2,55,ITS_Ambient_Wheat_R2_G-00,Ambient,Wheat,R2,G-00,T1
+241,Wooliver_ITS_1G2_Beever240927_S179,Wooliver,ITS,1G2,Beever240927,NA,S179,1,G,2,59,ITS_Ambient_Wheat-clover mix_R2_G-00,Ambient,Wheat-clover mix,R2,G-00,T1
+253,Wooliver_ITS_1H2_Beever240927_S180,Wooliver,ITS,1H2,Beever240927,NA,S180,1,H,2,63,ITS_Drought_Clover_R2_G-00,Drought,Clover,R2,G-00,T1
+170,Wooliver_ITS_1A3_Beever240927_S181,Wooliver,ITS,1A3,Beever240927,NA,S181,1,A,3,67,ITS_Drought_Five-species mix_R2_G-00,Drought,Five-species mix,R2,G-00,T1
+182,Wooliver_ITS_1B3_Beever240927_S182,Wooliver,ITS,1B3,Beever240927,NA,S182,1,B,3,71,ITS_Drought_No residue_R2_G-00,Drought,No residue,R2,G-00,T1
+194,Wooliver_ITS_1C3_Beever240927_S183,Wooliver,ITS,1C3,Beever240927,NA,S183,1,C,3,75,ITS_Drought_Wheat_R2_G-00,Drought,Wheat,R2,G-00,T1
+206,Wooliver_ITS_1D3_Beever240927_S184,Wooliver,ITS,1D3,Beever240927,NA,S184,1,D,3,79,ITS_Drought_Wheat-clover mix_R2_G-00,Drought,Wheat-clover mix,R2,G-00,T1
+218,Wooliver_ITS_1E3_Beever240927_S185,Wooliver,ITS,1.00E+03,Beever240927,NA,S185,1,E,3,83,ITS_Ambient_Clover_R3_G-00,Ambient,Clover,R3,G-00,T1
+230,Wooliver_ITS_1F3_Beever240927_S186,Wooliver,ITS,1F3,Beever240927,NA,S186,1,F,3,87,ITS_Ambient_Five-species mix_R3_G-00,Ambient,Five-species mix,R3,G-00,T1
+242,Wooliver_ITS_1G3_Beever240927_S187,Wooliver,ITS,1G3,Beever240927,NA,S187,1,G,3,91,ITS_Ambient_No residue_R3_G-00,Ambient,No residue,R3,G-00,T1
+254,Wooliver_ITS_1H3_Beever240927_S188,Wooliver,ITS,1H3,Beever240927,NA,S188,1,H,3,95,ITS_Ambient_Wheat_R3_G-00,Ambient,Wheat,R3,G-00,T1
+171,Wooliver_ITS_1A4_Beever240927_S189,Wooliver,ITS,1A4,Beever240927,NA,S189,1,A,4,99,ITS_Ambient_Wheat-clover mix_R3_G-00,Ambient,Wheat-clover mix,R3,G-00,T1
+183,Wooliver_ITS_1B4_Beever240927_S190,Wooliver,ITS,1B4,Beever240927,NA,S190,1,B,4,103,ITS_Drought_Clover_R3_G-00,Drought,Clover,R3,G-00,T1
+195,Wooliver_ITS_1C4_Beever240927_S191,Wooliver,ITS,1C4,Beever240927,NA,S191,1,C,4,107,ITS_Drought_Five-species mix_R3_G-00,Drought,Five-species mix,R3,G-00,T1
+207,Wooliver_ITS_1D4_Beever240927_S192,Wooliver,ITS,1D4,Beever240927,NA,S192,1,D,4,111,ITS_Drought_No residue_R3_G-00,Drought,No residue,R3,G-00,T1
+219,Wooliver_ITS_1E4_Beever240927_S193,Wooliver,ITS,1.00E+04,Beever240927,NA,S193,1,E,4,115,ITS_Drought_Wheat_R3_G-00,Drought,Wheat,R3,G-00,T1
+231,Wooliver_ITS_1F4_Beever240927_S194,Wooliver,ITS,1F4,Beever240927,NA,S194,1,F,4,119,ITS_Drought_Wheat-clover mix_R3_G-00,Drought,Wheat-clover mix,R3,G-00,T1
+243,Wooliver_ITS_1G4_Beever240927_S195,Wooliver,ITS,1G4,Beever240927,NA,S195,1,G,4,123,ITS_Ambient_Clover_R4_G-00,Ambient,Clover,R4,G-00,T1
+255,Wooliver_ITS_1H4_Beever240927_S196,Wooliver,ITS,1H4,Beever240927,NA,S196,1,H,4,127,ITS_Ambient_Five-species mix_R4_G-00,Ambient,Five-species mix,R4,G-00,T1
+172,Wooliver_ITS_1A5_Beever240927_S197,Wooliver,ITS,1A5,Beever240927,NA,S197,1,A,5,131,ITS_Ambient_No residue_R4_G-00,Ambient,No residue,R4,G-00,T1
+184,Wooliver_ITS_1B5_Beever240927_S198,Wooliver,ITS,1B5,Beever240927,NA,S198,1,B,5,135,ITS_Ambient_Wheat_R4_G-00,Ambient,Wheat,R4,G-00,T1
+196,Wooliver_ITS_1C5_Beever240927_S199,Wooliver,ITS,1C5,Beever240927,NA,S199,1,C,5,139,ITS_Ambient_Wheat-clover mix_R4_G-00,Ambient,Wheat-clover mix,R4,G-00,T1
+208,Wooliver_ITS_1D5_Beever240927_S200,Wooliver,ITS,1D5,Beever240927,NA,S200,1,D,5,143,ITS_Drought_Clover_R4_G-00,Drought,Clover,R4,G-00,T1
+220,Wooliver_ITS_1E5_Beever240927_S201,Wooliver,ITS,1.00E+05,Beever240927,NA,S201,1,E,5,147,ITS_Drought_Five-species mix_R4_G-00,Drought,Five-species mix,R4,G-00,T1
+232,Wooliver_ITS_1F5_Beever240927_S202,Wooliver,ITS,1F5,Beever240927,NA,S202,1,F,5,151,ITS_Drought_No residue_R4_G-00,Drought,No residue,R4,G-00,T1
+244,Wooliver_ITS_1G5_Beever240927_S203,Wooliver,ITS,1G5,Beever240927,NA,S203,1,G,5,155,ITS_Drought_Wheat_R4_G-00,Drought,Wheat,R4,G-00,T1
+256,Wooliver_ITS_1H5_Beever240927_S204,Wooliver,ITS,1H5,Beever240927,NA,S204,1,H,5,159,ITS_Drought_Wheat-clover mix_R4_G-00,Drought,Wheat-clover mix,R4,G-00,T1
+173,Wooliver_ITS_1A6_Beever240927_S205,Wooliver,ITS,1A6,Beever240927,NA,S205,1,A,6,4,ITS_Ambient_Clover_R1_G-00,Ambient,Clover,R1,G-00,T90
+185,Wooliver_ITS_1B6_Beever240927_S206,Wooliver,ITS,1B6,Beever240927,NA,S206,1,B,6,8,ITS_Ambient_Five-species mix_R1_G-00,Ambient,Five-species mix,R1,G-00,T90
+197,Wooliver_ITS_1C6_Beever240927_S207,Wooliver,ITS,1C6,Beever240927,NA,S207,1,C,6,12,ITS_Ambient_No residue_R1_G-00,Ambient,No residue,R1,G-00,T90
+209,Wooliver_ITS_1D6_Beever240927_S208,Wooliver,ITS,1D6,Beever240927,NA,S208,1,D,6,16,ITS_Ambient_Wheat_R1_G-00,Ambient,Wheat,R1,G-00,T90
+221,Wooliver_ITS_1E6_Beever240927_S209,Wooliver,ITS,1.00E+06,Beever240927,NA,S209,1,E,6,20,ITS_Ambient_Wheat-clover mix_R1_G-00,Ambient,Wheat-clover mix,R1,G-00,T90
+233,Wooliver_ITS_1F6_Beever240927_S210,Wooliver,ITS,1F6,Beever240927,NA,S210,1,F,6,24,ITS_Drought_Clover_R1_G-00,Drought,Clover,R1,G-00,T90
+245,Wooliver_ITS_1G6_Beever240927_S211,Wooliver,ITS,1G6,Beever240927,NA,S211,1,G,6,28,ITS_Drought_Five-species mix_R1_G-00,Drought,Five-species mix,R1,G-00,T90
+257,Wooliver_ITS_1H6_Beever240927_S212,Wooliver,ITS,1H6,Beever240927,NA,S212,1,H,6,32,ITS_Drought_No residue_R1_G-00,Drought,No residue,R1,G-00,T90
+174,Wooliver_ITS_1A7_Beever240927_S213,Wooliver,ITS,1A7,Beever240927,NA,S213,1,A,7,36,ITS_Drought_Wheat_R1_G-00,Drought,Wheat,R1,G-00,T90
+186,Wooliver_ITS_1B7_Beever240927_S214,Wooliver,ITS,1B7,Beever240927,NA,S214,1,B,7,40,ITS_Drought_Wheat-clover mix_R1_G-00,Drought,Wheat-clover mix,R1,G-00,T90
+198,Wooliver_ITS_1C7_Beever240927_S215,Wooliver,ITS,1C7,Beever240927,NA,S215,1,C,7,44,ITS_Ambient_Clover_R2_G-00,Ambient,Clover,R2,G-00,T90
+210,Wooliver_ITS_1D7_Beever240927_S216,Wooliver,ITS,1D7,Beever240927,NA,S216,1,D,7,48,ITS_Ambient_Five-species mix_R2_G-00,Ambient,Five-species mix,R2,G-00,T90
+222,Wooliver_ITS_1E7_Beever240927_S217,Wooliver,ITS,1.00E+07,Beever240927,NA,S217,1,E,7,52,ITS_Ambient_No residue_R2_G-00,Ambient,No residue,R2,G-00,T90
+234,Wooliver_ITS_1F7_Beever240927_S218,Wooliver,ITS,1F7,Beever240927,NA,S218,1,F,7,56,ITS_Ambient_Wheat_R2_G-00,Ambient,Wheat,R2,G-00,T90
+246,Wooliver_ITS_1G7_Beever240927_S219,Wooliver,ITS,1G7,Beever240927,NA,S219,1,G,7,60,ITS_Ambient_Wheat-clover mix_R2_G-00,Ambient,Wheat-clover mix,R2,G-00,T90
+258,Wooliver_ITS_1H7_Beever240927_S220,Wooliver,ITS,1H7,Beever240927,NA,S220,1,H,7,64,ITS_Drought_Clover_R2_G-00,Drought,Clover,R2,G-00,T90
+175,Wooliver_ITS_1A8_Beever240927_S221,Wooliver,ITS,1A8,Beever240927,NA,S221,1,A,8,68,ITS_Drought_Five-species mix_R2_G-00,Drought,Five-species mix,R2,G-00,T90
+187,Wooliver_ITS_1B8_Beever240927_S222,Wooliver,ITS,1B8,Beever240927,NA,S222,1,B,8,72,ITS_Drought_No residue_R2_G-00,Drought,No residue,R2,G-00,T90
+199,Wooliver_ITS_1C8_Beever240927_S223,Wooliver,ITS,1C8,Beever240927,NA,S223,1,C,8,76,ITS_Drought_Wheat_R2_G-00,Drought,Wheat,R2,G-00,T90
+211,Wooliver_ITS_1D8_Beever240927_S224,Wooliver,ITS,1D8,Beever240927,NA,S224,1,D,8,80,ITS_Drought_Wheat-clover mix_R2_G-00,Drought,Wheat-clover mix,R2,G-00,T90
+223,Wooliver_ITS_1E8_Beever240927_S225,Wooliver,ITS,1.00E+08,Beever240927,NA,S225,1,E,8,84,ITS_Ambient_Clover_R3_G-00,Ambient,Clover,R3,G-00,T90
+235,Wooliver_ITS_1F8_Beever240927_S226,Wooliver,ITS,1F8,Beever240927,NA,S226,1,F,8,88,ITS_Ambient_Five-species mix_R3_G-00,Ambient,Five-species mix,R3,G-00,T90
+247,Wooliver_ITS_1G8_Beever240927_S227,Wooliver,ITS,1G8,Beever240927,NA,S227,1,G,8,92,ITS_Ambient_No residue_R3_G-00,Ambient,No residue,R3,G-00,T90
+259,Wooliver_ITS_1H8_Beever240927_S228,Wooliver,ITS,1H8,Beever240927,NA,S228,1,H,8,96,ITS_Ambient_Wheat_R3_G-00,Ambient,Wheat,R3,G-00,T90
+176,Wooliver_ITS_1A9_Beever240927_S229,Wooliver,ITS,1A9,Beever240927,NA,S229,1,A,9,100,ITS_Ambient_Wheat-clover mix_R3_G-00,Ambient,Wheat-clover mix,R3,G-00,T90
+188,Wooliver_ITS_1B9_Beever240927_S230,Wooliver,ITS,1B9,Beever240927,NA,S230,1,B,9,104,ITS_Drought_Clover_R3_G-00,Drought,Clover,R3,G-00,T90
+200,Wooliver_ITS_1C9_Beever240927_S231,Wooliver,ITS,1C9,Beever240927,NA,S231,1,C,9,108,ITS_Drought_Five-species mix_R3_G-00,Drought,Five-species mix,R3,G-00,T90
+212,Wooliver_ITS_1D9_Beever240927_S232,Wooliver,ITS,1D9,Beever240927,NA,S232,1,D,9,112,ITS_Drought_No residue_R3_G-00,Drought,No residue,R3,G-00,T90
+224,Wooliver_ITS_1E9_Beever240927_S233,Wooliver,ITS,1.00E+09,Beever240927,NA,S233,1,E,9,116,ITS_Drought_Wheat_R3_G-00,Drought,Wheat,R3,G-00,T90
+236,Wooliver_ITS_1F9_Beever240927_S234,Wooliver,ITS,1F9,Beever240927,NA,S234,1,F,9,120,ITS_Drought_Wheat-clover mix_R3_G-00,Drought,Wheat-clover mix,R3,G-00,T90
+248,Wooliver_ITS_1G9_Beever240927_S235,Wooliver,ITS,1G9,Beever240927,NA,S235,1,G,9,124,ITS_Ambient_Clover_R4_G-00,Ambient,Clover,R4,G-00,T90
+260,Wooliver_ITS_1H9_Beever240927_S236,Wooliver,ITS,1H9,Beever240927,NA,S236,1,H,9,128,ITS_Ambient_Five-species mix_R4_G-00,Ambient,Five-species mix,R4,G-00,T90
+166,Wooliver_ITS_1A10_Beever240927_S237,Wooliver,ITS,1A10,Beever240927,NA,S237,1,A,10,132,ITS_Ambient_No residue_R4_G-00,Ambient,No residue,R4,G-00,T90
+178,Wooliver_ITS_1B10_Beever240927_S238,Wooliver,ITS,1B10,Beever240927,NA,S238,1,B,10,136,ITS_Ambient_Wheat_R4_G-00,Ambient,Wheat,R4,G-00,T90
+190,Wooliver_ITS_1C10_Beever240927_S239,Wooliver,ITS,1C10,Beever240927,NA,S239,1,C,10,140,ITS_Ambient_Wheat-clover mix_R4_G-00,Ambient,Wheat-clover mix,R4,G-00,T90
+202,Wooliver_ITS_1D10_Beever240927_S240,Wooliver,ITS,1D10,Beever240927,NA,S240,1,D,10,144,ITS_Drought_Clover_R4_G-00,Drought,Clover,R4,G-00,T90
+214,Wooliver_ITS_1E10_Beever240927_S241,Wooliver,ITS,1.00E+10,Beever240927,NA,S241,1,E,10,148,ITS_Drought_Five-species mix_R4_G-00,Drought,Five-species mix,R4,G-00,T90
+226,Wooliver_ITS_1F10_Beever240927_S242,Wooliver,ITS,1F10,Beever240927,NA,S242,1,F,10,152,ITS_Drought_No residue_R4_G-00,Drought,No residue,R4,G-00,T90
+238,Wooliver_ITS_1G10_Beever240927_S243,Wooliver,ITS,1G10,Beever240927,NA,S243,1,G,10,156,ITS_Drought_Wheat_R4_G-00,Drought,Wheat,R4,G-00,T90
+250,Wooliver_ITS_1H10_Beever240927_S244,Wooliver,ITS,1H10,Beever240927,NA,S244,1,H,10,160,ITS_Drought_Wheat-clover mix_R4_G-00,Drought,Wheat-clover mix,R4,G-00,T90
+167,Wooliver_ITS_1A11_Beever240927_S245,Wooliver,ITS,1A11,Beever240927,NA,S245,1,A,11,1,ITS_Ambient_Clover_R1_G-50,Ambient,Clover,R1,G-50,T1
+179,Wooliver_ITS_1B11_Beever240927_S246,Wooliver,ITS,1B11,Beever240927,NA,S246,1,B,11,5,ITS_Ambient_Five-species mix_R1_G-50,Ambient,Five-species mix,R1,G-50,T1
+191,Wooliver_ITS_1C11_Beever240927_S247,Wooliver,ITS,1C11,Beever240927,NA,S247,1,C,11,9,ITS_Ambient_No residue_R1_G-50,Ambient,No residue,R1,G-50,T1
+203,Wooliver_ITS_1D11_Beever240927_S248,Wooliver,ITS,1D11,Beever240927,NA,S248,1,D,11,13,ITS_Ambient_Wheat_R1_G-50,Ambient,Wheat,R1,G-50,T1
+215,Wooliver_ITS_1E11_Beever240927_S249,Wooliver,ITS,1.00E+11,Beever240927,NA,S249,1,E,11,17,ITS_Ambient_Wheat-clover mix_R1_G-50,Ambient,Wheat-clover mix,R1,G-50,T1
+227,Wooliver_ITS_1F11_Beever240927_S250,Wooliver,ITS,1F11,Beever240927,NA,S250,1,F,11,21,ITS_Drought_Clover_R1_G-50,Drought,Clover,R1,G-50,T1
+239,Wooliver_ITS_1G11_Beever240927_S251,Wooliver,ITS,1G11,Beever240927,NA,S251,1,G,11,25,ITS_Drought_Five-species mix_R1_G-50,Drought,Five-species mix,R1,G-50,T1
+251,Wooliver_ITS_1H11_Beever240927_S252,Wooliver,ITS,1H11,Beever240927,NA,S252,1,H,11,29,ITS_Drought_No residue_R1_G-50,Drought,No residue,R1,G-50,T1
+168,Wooliver_ITS_1A12_Beever240927_S253,Wooliver,ITS,1A12,Beever240927,NA,S253,1,A,12,33,ITS_Drought_Wheat_R1_G-50,Drought,Wheat,R1,G-50,T1
+180,Wooliver_ITS_1B12_Beever240927_S254,Wooliver,ITS,1B12,Beever240927,NA,S254,1,B,12,37,ITS_Drought_Wheat-clover mix_R1_G-50,Drought,Wheat-clover mix,R1,G-50,T1
+192,Wooliver_ITS_1C12_Beever240927_S255,Wooliver,ITS,1C12,Beever240927,NA,S255,1,C,12,41,ITS_Ambient_Clover_R2_G-50,Ambient,Clover,R2,G-50,T1
+204,Wooliver_ITS_1D12_Beever240927_S256,Wooliver,ITS,1D12,Beever240927,NA,S256,1,D,12,45,ITS_Ambient_Five-species mix_R2_G-50,Ambient,Five-species mix,R2,G-50,T1
+216,Wooliver_ITS_1E12_Beever240927_S257,Wooliver,ITS,1.00E+12,Beever240927,NA,S257,1,E,12,49,ITS_Ambient_No residue_R2_G-50,Ambient,No residue,R2,G-50,T1
+228,Wooliver_ITS_1F12_Beever240927_S258,Wooliver,ITS,1F12,Beever240927,NA,S258,1,F,12,53,ITS_Ambient_Wheat_R2_G-50,Ambient,Wheat,R2,G-50,T1
+240,Wooliver_ITS_1G12_Beever240927_S259,Wooliver,ITS,1G12,Beever240927,NA,S259,1,G,12,57,ITS_Ambient_Wheat-clover mix_R2_G-50,Ambient,Wheat-clover mix,R2,G-50,T1
+252,Wooliver_ITS_1H12_Beever240927_S260,Wooliver,ITS,1H12,Beever240927,NA,S260,1,H,12,61,ITS_Drought_Clover_R2_G-50,Drought,Clover,R2,G-50,T1
+261,Wooliver_ITS_2A1_Beever240927_S261,Wooliver,ITS,2A1,Beever240927,NA,S261,2,A,1,65,ITS_Drought_Five-species mix_R2_G-50,Drought,Five-species mix,R2,G-50,T1
+270,Wooliver_ITS_2B1_Beever240927_S262,Wooliver,ITS,2B1,Beever240927,NA,S262,2,B,1,69,ITS_Drought_No residue_R2_G-50,Drought,No residue,R2,G-50,T1
+279,Wooliver_ITS_2C1_Beever240927_S263,Wooliver,ITS,2C1,Beever240927,NA,S263,2,C,1,73,ITS_Drought_Wheat_R2_G-50,Drought,Wheat,R2,G-50,T1
+288,Wooliver_ITS_2D1_Beever240927_S264,Wooliver,ITS,2D1,Beever240927,NA,S264,2,D,1,77,ITS_Drought_Wheat-clover mix_R2_G-50,Drought,Wheat-clover mix,R2,G-50,T1
+297,Wooliver_ITS_2E1_Beever240927_S265,Wooliver,ITS,2.00E+01,Beever240927,NA,S265,2,E,1,81,ITS_Ambient_Clover_R3_G-50,Ambient,Clover,R3,G-50,T1
+305,Wooliver_ITS_2F1_Beever240927_S266,Wooliver,ITS,2F1,Beever240927,NA,S266,2,F,1,85,ITS_Ambient_Five-species mix_R3_G-50,Ambient,Five-species mix,R3,G-50,T1
+313,Wooliver_ITS_2G1_Beever240927_S267,Wooliver,ITS,2G1,Beever240927,NA,S267,2,G,1,89,ITS_Ambient_No residue_R3_G-50,Ambient,No residue,R3,G-50,T1
+262,Wooliver_ITS_2A2_Beever240927_S269,Wooliver,ITS,2A2,Beever240927,NA,S269,2,A,2,97,ITS_Ambient_Wheat-clover mix_R3_G-50,Ambient,Wheat-clover mix,R3,G-50,T1
+271,Wooliver_ITS_2B2_Beever240927_S270,Wooliver,ITS,2B2,Beever240927,NA,S270,2,B,2,101,ITS_Drought_Clover_R3_G-50,Drought,Clover,R3,G-50,T1
+280,Wooliver_ITS_2C2_Beever240927_S271,Wooliver,ITS,2C2,Beever240927,NA,S271,2,C,2,105,ITS_Drought_Five-species mix_R3_G-50,Drought,Five-species mix,R3,G-50,T1
+289,Wooliver_ITS_2D2_Beever240927_S272,Wooliver,ITS,2D2,Beever240927,NA,S272,2,D,2,109,ITS_Drought_No residue_R3_G-50,Drought,No residue,R3,G-50,T1
+298,Wooliver_ITS_2E2_Beever240927_S273,Wooliver,ITS,2.00E+02,Beever240927,NA,S273,2,E,2,113,ITS_Drought_Wheat_R3_G-50,Drought,Wheat,R3,G-50,T1
+306,Wooliver_ITS_2F2_Beever240927_S274,Wooliver,ITS,2F2,Beever240927,NA,S274,2,F,2,117,ITS_Drought_Wheat-clover mix_R3_G-50,Drought,Wheat-clover mix,R3,G-50,T1
+314,Wooliver_ITS_2G2_Beever240927_S275,Wooliver,ITS,2G2,Beever240927,NA,S275,2,G,2,121,ITS_Ambient_Clover_R4_G-50,Ambient,Clover,R4,G-50,T1
+322,Wooliver_ITS_2H2_Beever240927_S276,Wooliver,ITS,2H2,Beever240927,NA,S276,2,H,2,125,ITS_Ambient_Five-species mix_R4_G-50,Ambient,Five-species mix,R4,G-50,T1
+263,Wooliver_ITS_2A3_Beever240927_S277,Wooliver,ITS,2A3,Beever240927,NA,S277,2,A,3,129,ITS_Ambient_No residue_R4_G-50,Ambient,No residue,R4,G-50,T1
+272,Wooliver_ITS_2B3_Beever240927_S278,Wooliver,ITS,2B3,Beever240927,NA,S278,2,B,3,133,ITS_Ambient_Wheat_R4_G-50,Ambient,Wheat,R4,G-50,T1
+281,Wooliver_ITS_2C3_Beever240927_S279,Wooliver,ITS,2C3,Beever240927,NA,S279,2,C,3,137,ITS_Ambient_Wheat-clover mix_R4_G-50,Ambient,Wheat-clover mix,R4,G-50,T1
+290,Wooliver_ITS_2D3_Beever240927_S280,Wooliver,ITS,2D3,Beever240927,NA,S280,2,D,3,141,ITS_Drought_Clover_R4_G-50,Drought,Clover,R4,G-50,T1
+299,Wooliver_ITS_2E3_Beever240927_S281,Wooliver,ITS,2.00E+03,Beever240927,NA,S281,2,E,3,145,ITS_Drought_Five-species mix_R4_G-50,Drought,Five-species mix,R4,G-50,T1
+307,Wooliver_ITS_2F3_Beever240927_S282,Wooliver,ITS,2F3,Beever240927,NA,S282,2,F,3,149,ITS_Drought_No residue_R4_G-50,Drought,No residue,R4,G-50,T1
+315,Wooliver_ITS_2G3_Beever240927_S283,Wooliver,ITS,2G3,Beever240927,NA,S283,2,G,3,153,ITS_Drought_Wheat_R4_G-50,Drought,Wheat,R4,G-50,T1
+323,Wooliver_ITS_2H3_Beever240927_S284,Wooliver,ITS,2H3,Beever240927,NA,S284,2,H,3,157,ITS_Drought_Wheat-clover mix_R4_G-50,Drought,Wheat-clover mix,R4,G-50,T1
+264,Wooliver_ITS_2A4_Beever240927_S285,Wooliver,ITS,2A4,Beever240927,NA,S285,2,A,4,2,ITS_Ambient_Clover_R1_G-50,Ambient,Clover,R1,G-50,T90
+273,Wooliver_ITS_2B4_Beever240927_S286,Wooliver,ITS,2B4,Beever240927,NA,S286,2,B,4,6,ITS_Ambient_Five-species mix_R1_G-50,Ambient,Five-species mix,R1,G-50,T90
+282,Wooliver_ITS_2C4_Beever240927_S287,Wooliver,ITS,2C4,Beever240927,NA,S287,2,C,4,10,ITS_Ambient_No residue_R1_G-50,Ambient,No residue,R1,G-50,T90
+291,Wooliver_ITS_2D4_Beever240927_S288,Wooliver,ITS,2D4,Beever240927,NA,S288,2,D,4,14,ITS_Ambient_Wheat_R1_G-50,Ambient,Wheat,R1,G-50,T90
+300,Wooliver_ITS_2E4_Beever240927_S289,Wooliver,ITS,2.00E+04,Beever240927,NA,S289,2,E,4,18,ITS_Ambient_Wheat-clover mix_R1_G-50,Ambient,Wheat-clover mix,R1,G-50,T90
+308,Wooliver_ITS_2F4_Beever240927_S290,Wooliver,ITS,2F4,Beever240927,NA,S290,2,F,4,22,ITS_Drought_Clover_R1_G-50,Drought,Clover,R1,G-50,T90
+316,Wooliver_ITS_2G4_Beever240927_S291,Wooliver,ITS,2G4,Beever240927,NA,S291,2,G,4,26,ITS_Drought_Five-species mix_R1_G-50,Drought,Five-species mix,R1,G-50,T90
+324,Wooliver_ITS_2H4_Beever240927_S292,Wooliver,ITS,2H4,Beever240927,NA,S292,2,H,4,30,ITS_Drought_No residue_R1_G-50,Drought,No residue,R1,G-50,T90
+265,Wooliver_ITS_2A5_Beever240927_S293,Wooliver,ITS,2A5,Beever240927,NA,S293,2,A,5,34,ITS_Drought_Wheat_R1_G-50,Drought,Wheat,R1,G-50,T90
+274,Wooliver_ITS_2B5_Beever240927_S294,Wooliver,ITS,2B5,Beever240927,NA,S294,2,B,5,38,ITS_Drought_Wheat-clover mix_R1_G-50,Drought,Wheat-clover mix,R1,G-50,T90
+283,Wooliver_ITS_2C5_Beever240927_S295,Wooliver,ITS,2C5,Beever240927,NA,S295,2,C,5,42,ITS_Ambient_Clover_R2_G-50,Ambient,Clover,R2,G-50,T90
+292,Wooliver_ITS_2D5_Beever240927_S296,Wooliver,ITS,2D5,Beever240927,NA,S296,2,D,5,46,ITS_Ambient_Five-species mix_R2_G-50,Ambient,Five-species mix,R2,G-50,T90
+301,Wooliver_ITS_2E5_Beever240927_S297,Wooliver,ITS,2.00E+05,Beever240927,NA,S297,2,E,5,50,ITS_Ambient_No residue_R2_G-50,Ambient,No residue,R2,G-50,T90
+309,Wooliver_ITS_2F5_Beever240927_S298,Wooliver,ITS,2F5,Beever240927,NA,S298,2,F,5,54,ITS_Ambient_Wheat_R2_G-50,Ambient,Wheat,R2,G-50,T90
+317,Wooliver_ITS_2G5_Beever240927_S299,Wooliver,ITS,2G5,Beever240927,NA,S299,2,G,5,58,ITS_Ambient_Wheat-clover mix_R2_G-50,Ambient,Wheat-clover mix,R2,G-50,T90
+325,Wooliver_ITS_2H5_Beever240927_S300,Wooliver,ITS,2H5,Beever240927,NA,S300,2,H,5,62,ITS_Drought_Clover_R2_G-50,Drought,Clover,R2,G-50,T90
+266,Wooliver_ITS_2A6_Beever240927_S301,Wooliver,ITS,2A6,Beever240927,NA,S301,2,A,6,66,ITS_Drought_Five-species mix_R2_G-50,Drought,Five-species mix,R2,G-50,T90
+275,Wooliver_ITS_2B6_Beever240927_S302,Wooliver,ITS,2B6,Beever240927,NA,S302,2,B,6,70,ITS_Drought_No residue_R2_G-50,Drought,No residue,R2,G-50,T90
+284,Wooliver_ITS_2C6_Beever240927_S303,Wooliver,ITS,2C6,Beever240927,NA,S303,2,C,6,74,ITS_Drought_Wheat_R2_G-50,Drought,Wheat,R2,G-50,T90
+293,Wooliver_ITS_2D6_Beever240927_S304,Wooliver,ITS,2D6,Beever240927,NA,S304,2,D,6,78,ITS_Drought_Wheat-clover mix_R2_G-50,Drought,Wheat-clover mix,R2,G-50,T90
+302,Wooliver_ITS_2E6_Beever240927_S305,Wooliver,ITS,2.00E+06,Beever240927,NA,S305,2,E,6,82,ITS_Ambient_Clover_R3_G-50,Ambient,Clover,R3,G-50,T90
+310,Wooliver_ITS_2F6_Beever240927_S306,Wooliver,ITS,2F6,Beever240927,NA,S306,2,F,6,86,ITS_Ambient_Five-species mix_R3_G-50,Ambient,Five-species mix,R3,G-50,T90
+318,Wooliver_ITS_2G6_Beever240927_S307,Wooliver,ITS,2G6,Beever240927,NA,S307,2,G,6,90,ITS_Ambient_No residue_R3_G-50,Ambient,No residue,R3,G-50,T90
+326,Wooliver_ITS_2H6_Beever240927_S308,Wooliver,ITS,2H6,Beever240927,NA,S308,2,H,6,94,ITS_Ambient_Wheat_R3_G-50,Ambient,Wheat,R3,G-50,T90
+267,Wooliver_ITS_2A7_Beever240927_S309,Wooliver,ITS,2A7,Beever240927,NA,S309,2,A,7,98,ITS_Ambient_Wheat-clover mix_R3_G-50,Ambient,Wheat-clover mix,R3,G-50,T90
+276,Wooliver_ITS_2B7_Beever240927_S310,Wooliver,ITS,2B7,Beever240927,NA,S310,2,B,7,102,ITS_Drought_Clover_R3_G-50,Drought,Clover,R3,G-50,T90
+285,Wooliver_ITS_2C7_Beever240927_S311,Wooliver,ITS,2C7,Beever240927,NA,S311,2,C,7,106,ITS_Drought_Five-species mix_R3_G-50,Drought,Five-species mix,R3,G-50,T90
+294,Wooliver_ITS_2D7_Beever240927_S312,Wooliver,ITS,2D7,Beever240927,NA,S312,2,D,7,110,ITS_Drought_No residue_R3_G-50,Drought,No residue,R3,G-50,T90
+303,Wooliver_ITS_2E7_Beever240927_S313,Wooliver,ITS,2.00E+07,Beever240927,NA,S313,2,E,7,114,ITS_Drought_Wheat_R3_G-50,Drought,Wheat,R3,G-50,T90
+311,Wooliver_ITS_2F7_Beever240927_S314,Wooliver,ITS,2F7,Beever240927,NA,S314,2,F,7,118,ITS_Drought_Wheat-clover mix_R3_G-50,Drought,Wheat-clover mix,R3,G-50,T90
+319,Wooliver_ITS_2G7_Beever240927_S315,Wooliver,ITS,2G7,Beever240927,NA,S315,2,G,7,122,ITS_Ambient_Clover_R4_G-50,Ambient,Clover,R4,G-50,T90
+327,Wooliver_ITS_2H7_Beever240927_S316,Wooliver,ITS,2H7,Beever240927,NA,S316,2,H,7,126,ITS_Ambient_Five-species mix_R4_G-50,Ambient,Five-species mix,R4,G-50,T90
+268,Wooliver_ITS_2A8_Beever240927_S317,Wooliver,ITS,2A8,Beever240927,NA,S317,2,A,8,130,ITS_Ambient_No residue_R4_G-50,Ambient,No residue,R4,G-50,T90
+277,Wooliver_ITS_2B8_Beever240927_S318,Wooliver,ITS,2B8,Beever240927,NA,S318,2,B,8,134,ITS_Ambient_Wheat_R4_G-50,Ambient,Wheat,R4,G-50,T90
+286,Wooliver_ITS_2C8_Beever240927_S319,Wooliver,ITS,2C8,Beever240927,NA,S319,2,C,8,138,ITS_Ambient_Wheat-clover mix_R4_G-50,Ambient,Wheat-clover mix,R4,G-50,T90
+295,Wooliver_ITS_2D8_Beever240927_S320,Wooliver,ITS,2D8,Beever240927,NA,S320,2,D,8,142,ITS_Drought_Clover_R4_G-50,Drought,Clover,R4,G-50,T90
+304,Wooliver_ITS_2E8_Beever240927_S321,Wooliver,ITS,2.00E+08,Beever240927,NA,S321,2,E,8,146,ITS_Drought_Five-species mix_R4_G-50,Drought,Five-species mix,R4,G-50,T90
+312,Wooliver_ITS_2F8_Beever240927_S322,Wooliver,ITS,2F8,Beever240927,NA,S322,2,F,8,150,ITS_Drought_No residue_R4_G-50,Drought,No residue,R4,G-50,T90
+320,Wooliver_ITS_2G8_Beever240927_S323,Wooliver,ITS,2G8,Beever240927,NA,S323,2,G,8,154,ITS_Drought_Wheat_R4_G-50,Drought,Wheat,R4,G-50,T90
+328,Wooliver_ITS_2H8_Beever240927_S324,Wooliver,ITS,2H8,Beever240927,NA,S324,2,H,8,158,ITS_Drought_Wheat-clover mix_R4_G-50,Drought,Wheat-clover mix,R4,G-50,T90
+269,Wooliver_ITS_2A9_Beever240927_S325,Wooliver,ITS,2A9,Beever240927,NA,S325,2,A,9,baseline1,ITS_baseline1,NA,NA,NA,NA,NA
+278,Wooliver_ITS_2B9_Beever240927_S326,Wooliver,ITS,2B9,Beever240927,NA,S326,2,B,9,baseline2,ITS_baseline2,NA,NA,NA,NA,NA
+287,Wooliver_ITS_2C9_Beever240927_S327,Wooliver,ITS,2C9,Beever240927,NA,S327,2,C,9,baseline3,ITS_baseline3,NA,NA,NA,NA,NA
+296,Wooliver_ITS_2D9_Beever240927_S328,Wooliver,ITS,2D9,Beever240927,NA,S328,2,D,9,baseline4,ITS_baseline4,NA,NA,NA,NA,NA
