@@ -19,7 +19,7 @@
 /*.Rcheck/
 
 # RStudio files
-.Rproj.user/
+*.Rproj.user*
 
 # produced vignettes
 vignettes/*.html
@@ -47,3 +47,22 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# python files
+*.DS_Store
+
+# Fungal trait database data (Polme et al. 2020 Fungal Diversity)
+raw-data/Fungal-trait-database
+
+# sequence data
+raw-data/sequence
+
+# model output
+model-output
+
+# figures
+fig-ppts
+figures
+
+
+.Rproj.user
