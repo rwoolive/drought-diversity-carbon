@@ -57,6 +57,10 @@ raw-data/Fungal-trait-database
 # sequence data
 raw-data/sequence
 
+# transformed CO2 data 
+raw-data/CO2_Long.csv
+raw-data/CO2_Long_avg.csv
+
 # model output
 model-output
 
