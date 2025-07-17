@@ -371,6 +371,15 @@ testlet$.group <- gsub(" ", "", testlet$.group)
 write.csv(testlet, "model-output/_uv/lsmeans/CSE_24 hr_2-way_res.csv")
 testlet_CSE_24hr_res <- testlet
 
+# custom contrast:
+test1
+A = c(1, 0, 0, 0, 0)
+B = c(0, 0.25, 0.25, 0.25, 0.25)
+con <- contrast(test1, method = list("A - B" = A - B)) 
+write.csv(con, "model-output/_uv/lsmeans/CSE_24 hr_2-way_res_custom contrast.csv")
+
+
+
 n <- 30
 mod.anova2[1,n] <- "CSE_6 mo"
 hist(dat$CSE[which(dat$Harvest.day2=="6 mo")])
@@ -622,6 +631,7 @@ segs <- data.frame(x=rep(1:5,1)-0.3, xend=rep(1:5,2)+0.3,
                    y=c(15,15,15,15,15)-0.7, yend=c(15,15,15,15,15)-0.7,
                    Harvest.day2="24 hr")
 segs$Harvest.day2 <- as.factor(segs$Harvest.day2)
+  geom_segment(inherit.aes=FALSE, data=segs, aes(x=x, y=y, yend=yend, xend=xend)) +
 p <- ggplot(data=testlet_co2.native, aes(x=Residue.type, y=response, fill=Moisture.treatment)) +
   ggh4x::facet_nested(~Harvest.day2)+ # , scales = "free_y", independent="y"
   theme_minimal() + labs(fill="Moisture treatment") +
@@ -1289,6 +1299,15 @@ ggpubr::ggexport(fig_X13poc3, height=1000, width=2500, filename = "figures/_uv/X
  write.csv(testlet, "model-output/_uv/lsmeans/X13residue_24 hr_2-way_res.csv")
  testlet_X13residue_24hr_res <- testlet
  
+ # custom contrast:
+ test1
+ A = c(0, 0, 0, 0, 1)
+ B = c(0.25, 0.25, 0.25, 0.25, 0)
+ con <- contrast(test1, method = list("A - B" = A - B)) 
+ write.csv(con, "model-output/_uv/lsmeans/X13residue_24 hr_2-way_res_custom contrast.csv")
+ 
+ 
+ 
  n <- 32
  mod.anova2[1,n] <- "X13residue_6 mo"
  hist(dat$X13residue[which(dat$Harvest.day2=="6 mo")])
@@ -1473,6 +1492,14 @@ testlet_X13maoc <- testlet_X13maoc[order(testlet_X13maoc$Harvest.day2,testlet_X1
 testlet_X13poc <- testlet_X13poc[order(testlet_X13poc$Harvest.day2,testlet_X13poc$Residue.type),]
 testlet_X13co2 <- testlet_X13co2[order(testlet_X13co2$Harvest.day2,testlet_X13co2$Residue.type),]
 
+segs <- data.frame(x=c(rep(NA, 5), rep(1.5,5))-0.4, xend=c(rep(NA, 5), rep(1.5,5))+0.4,
+                   y=c(rep(NA, 5), testlet_X13maoc_res$response[6:10]/2-2), yend=c(rep(NA, 5), testlet_X13maoc_res$response[6:10]/2-2),
+                   Harvest.day2=rep(levels(testlet_4$Harvest.day2), each=5), 
+                   Residue.type=rep(levels(testlet_4$Residue.type), 2))
+segs$Harvest.day2 <- as.factor(segs$Harvest.day2)
+segs$Residue.type <- as.factor(segs$Residue.type)
+segs$Residue.type <- factor(segs$Residue.type, levels(segs$Residue.type)[c(3,4,1,5,2)])
+
 stacked_fig_b <- ggplot(testlet_4, aes(fill=condition, y=response, x=Moisture.treatment)) + 
   theme_bw() + 
   #lims(y=c(0,50)) +
@@ -1480,14 +1507,15 @@ stacked_fig_b <- ggplot(testlet_4, aes(fill=condition, y=response, x=Moisture.tr
   ggh4x::facet_nested(.~Harvest.day2+Residue.type) +
   #labs(x="Residue type", fill=expression(paste(""^13,"C pool")), y="") +
   labs(x="Moisture treatment", fill="", y="") +
-  scale_fill_manual(values=c("red2", "darkolivegreen4",  "navy"), labels=c("Respiration", "Particulate organic matter",  "Mineral-associated organic matter")) +
+  scale_fill_manual(values=c( "firebrick2", "olivedrab", "navy"), labels=c("Respiration", "Particulate organic matter",  "Mineral-associated organic matter")) +
   theme(panel.spacing=unit(1,"lines"),axis.ticks.x=element_blank(),axis.ticks.y=element_line(), 
         panel.grid.minor = element_blank(), panel.grid.major.x=element_blank(),
         axis.text.x = element_text(angle = 290, vjust = 0, hjust=0), legend.position="top", 
         plot.margin = unit(c(0,1,0,0), "cm"), strip.text.x = element_text(size = 8)) +
   # add maoc letters
-  geom_text(inherit.aes=FALSE, data=testlet_X13maoc, color="white", size=3,fontface=2,
-            aes(label=testlet_X13maoc$.group, x=rep(1:2, 10), y=testlet_X13maoc$response/2))+
+  geom_rect(inherit.aes=FALSE, data=segs, aes(xmin=x, ymin=y+1, ymax=yend+4, xmax=xend), fill="black", color="white") +
+  geom_text(inherit.aes=FALSE, data=testlet_X13maoc_res, color="white", size=3,fontface=2,
+            aes(label=testlet_X13maoc_res$.group, x=rep(1.5, 10), y=0.5+testlet_X13maoc_res$response/2))+
   # # add poc letters
   # geom_text(inherit.aes=FALSE, data=testlet_X13poc, color="white", size=3, fontface=2,
   #           aes(label=testlet_X13poc$.group, x=rep(1:2, 10), y=(testlet_X13poc$response/2)+testlet_X13maoc$response)) +
